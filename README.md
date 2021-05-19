@@ -1,6 +1,6 @@
 # CassyAnderson.github.io
 
-The purpose of this project was to have a place to store my education, experince and other projects I want 
+The purpose of this project is to have a place to store my education, experince and other projects I want 
 to add later down the road. This project also demostrates my ability to use HTML, CSS and Javascript. 
 I have been trying to find a great place to host my page, and Github was an easy choice! 
 
