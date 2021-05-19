@@ -1,4 +1,4 @@
-# CassyAnderson.github.io
+# CassyAnderson.github.io(https://cassyanderson.github.io/)
 
 The purpose of this project is to have a place to store my education, experince and other projects I want 
 to add later down the road. This project also demostrates my ability to use HTML, CSS and Javascript. 
@@ -31,11 +31,10 @@ I used sublime text for this project and canva.
 
 ## Authors
 
-Contributors names and contact info
-
 Cassandra Anderson
-ex. [@cassandraanderson123](https://www.linkedin.com/in/cassandraanderson123/)
+[@cassandraanderson123](https://www.linkedin.com/in/cassandraanderson123/)
 
+HTML5Up! [@HTML5UP!](https://html5up.net/)
 ## Version History
 
 
